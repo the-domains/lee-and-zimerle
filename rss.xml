@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lee & Zimerle]]></title>
         <description><![CDATA[Lee & Zimerle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lee-and-zimerle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 03:35:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 03:41:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lee-and-zimerle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World!</p>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/lee-and-zimerle/hello-world/index.html</link>
             <guid isPermaLink="false">629f56da-3e32-4c15-9a1a-92bc2a31fd59</guid>
-            <pubDate>Tue, 26 Apr 2016 03:33:35 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 03:41:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
